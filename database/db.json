@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Franck Nijhof",
+      "sites": [
+        { "url": "https://github.com/frenck", "type": "github" },
+        { "url": "https://frenck.dev/", "type": "personal" },
+        { "url": "frenck@frenck.dev", "type": "email" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Anurag Hazra",
+      "sites": [
+        { "url": "https://github.com/anuraghazra", "type": "github" },
+        { "url": "http://anuraghazra.github.io/", "type": "personal" },
+        { "url": "hazru.anurag@gmail.com", "type": "email" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Alex Gaynor",
+      "sites": [
+        { "url": "https://github.com/alex", "type": "github" },
+        { "url": "https://alexgaynor.net", "type": "personal" },
+        { "url": "alex.gaynor@gmail.com", "type": "email" }
+      ]
+    }
+  ]
+}
