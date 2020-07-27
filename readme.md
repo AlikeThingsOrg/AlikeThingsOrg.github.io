@@ -1,4 +1,9 @@
-﻿### git/github problems??
+﻿## Common git commands-
+git log #(To view history of current branch)
+git branch --set-upstream-to=origin/currentBranchName currentBranchName
+git merge someBranchName #This will merge the specified branch to currently checkedout branch.
+
+### git/github problems??
 https://sahilrajput03.github.io/Git_and_GitHub.html
 
 ### Trello Link: 
